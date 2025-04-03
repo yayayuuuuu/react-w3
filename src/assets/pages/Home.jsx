@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "./Header";
-import Body from "./Body";
-import Footer from "./Footer";
+import Header from "./components/Header.jsx";
+import Body from "./components/Body.jsx";
+import Footer from "./components/Footer.jsx";
 
 const Home = () => {
   return (
